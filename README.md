@@ -12,3 +12,4 @@ tag: v0.0.2
 Работал в ветке develop, провел мёрдж c веткой master, далее создал gh-pages.
 
 Демо https://pavelsolodkin.github.io/RegExp/
+
