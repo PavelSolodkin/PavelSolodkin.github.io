@@ -7,7 +7,7 @@ HTML
 CSS
 RegExp
 
-tag: v0.0.2
+tag: v0.0.4
 
 Работал в ветке develop, провел мёрдж c веткой master, далее создал gh-pages.
 
